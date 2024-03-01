@@ -2,7 +2,7 @@
 #### I am Front End Developer
  B.Tech Computer Science student and self-taught frontend developer, I excel in HTML, CSS, JavaScript, and frameworks like React. Eager to apply my skills and knowledge to real-world projects while continuing to learn and grow in the field.
 
-Skills: || REACT || JS || HTML || CSS
+Skills: || REACT || JS || CSS || HTML
 
 Connect Me
 
