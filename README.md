@@ -1,8 +1,8 @@
 ### Hi there 👋, Gojith Prasad
 #### I am Front End Developer
- B.Tech Computer Science student and self-taught frontend developer, I excel in HTML, CSS, JavaScript, and frameworks like React. Eager to apply my skills and knowledge to real-world projects while continuing to learn and grow in the field.
 
-Skills: || REACT || JS || CSS || HTML
+Front-End Developer with expertise in React.js, JavaScript, and Node.js. Specializes in responsive UX/UI design and modern development practices. Creates dynamic, user-friendly interfaces and full-stack applications. Proficient in Git and committed to optimizing performance, enhancing user experience, and staying updated with industry trends for scalable solutions.
+
 
 Connect Me
 
