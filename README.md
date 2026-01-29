@@ -1,5 +1,5 @@
 ### Hi there 👋, Gojith Prasad
-**Front-End Developer specializing in React.js, Angular, and modern JavaScript**, with hands-on experience building responsive, scalable, and user-centric web applications. Skilled in developing clean UI architectures, reusable components, and high-performance interfaces using modern front-end frameworks and best practices.
+**Front-End Developer specializing in Angular, React.js and modern JavaScript**, with hands-on experience building responsive, scalable, and user-centric web applications. Skilled in developing clean UI architectures, reusable components, and high-performance interfaces using modern front-end frameworks and best practices.
 
 Experienced in creating dynamic single-page applications using React and Angular, with strong knowledge of component-based design, state management, routing, and API integration. Focused on writing maintainable code, improving performance, and delivering seamless user experiences across devices and browsers.
 
