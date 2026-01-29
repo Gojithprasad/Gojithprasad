@@ -1,8 +1,31 @@
 ### Hi there 👋, Gojith Prasad
 #### I am Front End Developer
 
-Front-End Developer with expertise in React.js, JavaScript, and Node.js. Specializes in responsive UX/UI design and modern development practices. Creates dynamic, user-friendly interfaces and full-stack applications. Proficient in Git and committed to optimizing performance, enhancing user experience, and staying updated with industry trends for scalable solutions.
+Sure GP 👍 I’ll rewrite your README summary again — this time **including Angular** and making it sound fully professional and detailed for GitHub / portfolio / resume use.
 
+You can paste this directly into your README:
+
+---
+
+## ✅ Professional README Summary (React + Angular Added)
+
+**Front-End Developer specializing in React.js, Angular, and modern JavaScript**, with hands-on experience building responsive, scalable, and user-centric web applications. Skilled in developing clean UI architectures, reusable components, and high-performance interfaces using modern front-end frameworks and best practices.
+
+Experienced in creating dynamic single-page applications using React and Angular, with strong knowledge of component-based design, state management, routing, and API integration. Focused on writing maintainable code, improving performance, and delivering seamless user experiences across devices and browsers.
+
+Comfortable working with Node.js for backend integration and full-stack project workflows. Proficient in Git-based version control and collaborative development environments.
+
+**Core strengths include:**
+
+* Building interactive SPAs using React.js and Angular
+* Writing clean, modular, and scalable JavaScript/TypeScript code
+* Responsive and mobile-first UI/UX development
+* REST API integration and async data handling
+* Performance optimization and code quality practices
+* Git workflow and team collaboration
+* Modern tooling and development standards
+
+Passionate about continuous learning, staying aligned with evolving industry trends, and developing production-ready applications that are both user-friendly and scalable.
 
 Connect Me
 
